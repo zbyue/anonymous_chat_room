@@ -11,7 +11,7 @@
 <link rel="stylesheet" href="css/style.css" type="text/css">
 <meta charset="utf-8">
 <head>
-    <title>聊天室</title>
+    <title>注册</title>
 </head>
 <style>
     /*表格居中样式*/
@@ -49,36 +49,28 @@
 </style>
 <script language="JavaScript">
     function check(input) {
-        if (input.id.value === "") {
-            input.id.focus();
-            alert("请输入用户名！！！");
+        if (input.username.value === "") {
+            input.username.focus();
+            alert("请输入昵称！！！");
             return false;
-        } else if (input.id.value === "\'") {
+        } else if (input.username.value === "\'") {
             alert("请不要输入非法字符！！！");
-            input.id.focus();
+            input.username.focus();
             return false;
         }
-    }
-</script>
-
-<script language="JavaScript">
-    function send() {
-        window.self.location = "signup.jsp";
     }
 </script>
 <body>
 <div class="css_main_tb">
     <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;margin:0 auto;">
-        <div style="margin-bottom: 50px;"><span style="font-size: 30px;">匿名聊天室</span></div>
-        <form name="input_form" method="post" action="LoginAction" onsubmit="return check(input_form)">
-            身份：<input type="text" name="id">
+        <div style="margin-bottom: 50px;"><span style="font-size: 30px;">注册身份</span></div>
+        <form name="input_form" method="post" action="SignupAction" onsubmit="return check(input_form)">
+            昵称：<input type="text" name="username">
             <br />
             密码：<input type="text" name="password">
+            <br />
             <input style="margin-bottom: 10px; width: 34px; height: 34px;" type="image" name="imageGo" src="images/ic_go_login.png">
         </form>
-        <div>
-            <input style="margin-bottom: 10px; width: 34px; height: 34px;;" name="submitBtn" type="button" class="btnTheme" value="注册" onclick="send()">
-        </div>
     </div>
 
 </div>

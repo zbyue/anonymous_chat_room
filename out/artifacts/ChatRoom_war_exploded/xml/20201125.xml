@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chat> 
+  <messages> 
+    <message> 
+      <from>[系统公告]</from>  
+      <face/>  
+      <to/>  
+      <content><![CDATA[<font color='gray'>zby走进了聊天室！</font>]]></content>  
+      <sendTime>Nov 25, 2020 9:07:25 AM</sendTime>  
+      <isPrivate>false</isPrivate> 
+    </message>  
+    <message> 
+      <from>zby</from>  
+      <face/>  
+      <to>所有人</to>  
+      <content><![CDATA[<font color='默认颜色'>211</font>]]></content>  
+      <sendTime>Nov 25, 2020 9:07:38 AM</sendTime>  
+      <isPrivate>false</isPrivate> 
+    </message>  
+    <message> 
+      <from>[系统公告]</from>  
+      <face/>  
+      <to/>  
+      <content><![CDATA[<font color='gray'>zby走进了聊天室！</font>]]></content>  
+      <sendTime>Nov 25, 2020 10:21:16 AM</sendTime>  
+      <isPrivate>false</isPrivate> 
+    </message>  
+    <message> 
+      <from>[系统公告]</from>  
+      <face/>  
+      <to/>  
+      <content><![CDATA[<font color='gray'>走进了聊天室！</font>]]></content>  
+      <sendTime>Nov 25, 2020 10:48:02 AM</sendTime>  
+      <isPrivate>false</isPrivate> 
+    </message>  
+    <message> 
+      <from>[系统公告]</from>  
+      <face/>  
+      <to/>  
+      <content><![CDATA[<font color='gray'>zby走进了聊天室！</font>]]></content>  
+      <sendTime>Nov 25, 2020 10:54:31 AM</sendTime>  
+      <isPrivate>false</isPrivate> 
+    </message>  
+    <message> 
+      <from>[系统公告]</from>  
+      <face/>  
+      <to/>  
+      <content><![CDATA[<font color='gray'>赵走进了聊天室！</font>]]></content>  
+      <sendTime>Nov 25, 2020 12:12:08 PM</sendTime>  
+      <isPrivate>false</isPrivate> 
+    </message>  
+    <message> 
+      <from>[系统公告]</from>  
+      <face/>  
+      <to/>  
+      <content><![CDATA[<font color='gray'>byue走进了聊天室！</font>]]></content>  
+      <sendTime>Nov 25, 2020 12:39:26 PM</sendTime>  
+      <isPrivate>false</isPrivate> 
+    </message>  
+    <message> 
+      <from>[系统公告]</from>  
+      <face/>  
+      <to/>  
+      <content><![CDATA[<font color='gray'>byue走进了聊天室！</font>]]></content>  
+      <sendTime>Nov 25, 2020 12:42:22 PM</sendTime>  
+      <isPrivate>false</isPrivate> 
+    </message>  
+    <message> 
+      <from>[系统公告]</from>  
+      <face/>  
+      <to/>  
+      <content><![CDATA[<font color='gray'>byue走进了聊天室！</font>]]></content>  
+      <sendTime>Nov 25, 2020 5:27:43 PM</sendTime>  
+      <isPrivate>false</isPrivate> 
+    </message>  
+    <message>
+      <from>byue</from>
+      <face></face>
+      <to>所有人</to>
+      <content><![CDATA[<font color='默认颜色'>www</font>]]></content>
+      <sendTime>Nov 25, 2020 5:28:33 PM</sendTime>
+      <isPrivate>false</isPrivate>
+    </message>
+  </messages> 
+</chat>
